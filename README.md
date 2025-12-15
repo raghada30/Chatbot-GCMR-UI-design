@@ -6,7 +6,7 @@ interface to support beneficiaries and improve digital service delivery.
 
 #Screenshots
 1- Chatbot Home Screen
-![Home Screen](screenshots/01-home.png)
+![Home Screen](screenshots/01-home.png.png)
 The main chatbot entry point on the government entity website, designed to provide
 a clear and welcoming starting interface for beneficiaries.
 
