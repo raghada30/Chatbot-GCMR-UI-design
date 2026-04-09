@@ -11,7 +11,7 @@ The main chatbot entry point on the government entity website, designed to provi
 a clear and welcoming starting interface for beneficiaries.
 
 2- Welcome Interface
-![Welcome Interface](screenshots/02-welcome-interface.png)
+![Welcome Interface](screenshots/02-Welcome interface.png.png
 The initial welcome interface that introduces the chatbot’s role and guides users
 on how to start the conversation.
 
